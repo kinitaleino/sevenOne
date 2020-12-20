@@ -1,0 +1,10 @@
+
+
+target ‘hometaskFive’ do
+	
+
+	use_frameworks!
+
+	pod ’Nuke’
+	pod ‘RealmSwift’
+end 
